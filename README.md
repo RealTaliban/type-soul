@@ -33,27 +33,7 @@
             <a href="https://github.com/RealTaliban/type-soul/issues">Report Bug</a>
             ·
             <a href="https://github.com/RealTaliban/type-soul/issues">Request Feature</a>
-    </div>
-  </h3>
-</div>
-
-<div align="center">
-    <div class="Text" align="center">
-        <h1>Installation</h>
-        <h3>git clone the repo<br>
-        install all requirements (run.bat installs everything)<br>
-        <pre>pip install colorama requests wget selenium</pre>
-    </div>
-</div>
-
-<div align="center">
-    <div class="Text" align="center">
-        <h1>Features</h>
-        <h3>It does what it says, it generates roblox accounts using threading so you can generate a lot of accounts and it will save the username and password in a login.txt file and will print the username password <s>and date of birth in the console</s></h3>
-    </div>
-</div>
-
-<div align="center">
+  <div align="center">
     <div class="Text" align="center">
         <h1>ToDo</h>
         <h3>- <s>Optional AutoUpdate</s><br>
