@@ -1,5 +1,5 @@
-#                             Roblox Alt Account Generator For Type Soul.
-<!-- ### Roblox-Account-Gen -->
+# Roblox Alt Account Generator For Type Soul.
+<!-- ### Type Soul Generator-->
 <!-- ![Views](https://komarev.com/ghpvc/?username=RobloxAccountGen&label=Views&style=flat-square) -->
 
 <p class="infos" align="center">
